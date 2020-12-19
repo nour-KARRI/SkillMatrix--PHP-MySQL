@@ -1,0 +1,11 @@
+11/06/2019 à 9:46:19 : Connection perdue avec la base de données de l'outil MyCenter Provisioning Tool :SQLSTATE[HY000] [2002] Aucune connexion n�a pu �tre �tablie car l�ordinateur cible l�a express�ment refus�e.
+
+27/05/2019 à 15:36:54 : L'utilisateur Ghazar vient d'être ajouté en tant qu'utilisateur (niveau : project manager).
+24/05/2019 à 17:51:47 : L'utilisateur aze vient d'être ajouté en tant qu'utilisateur (niveau : project manager).
+24/05/2019 à 17:46:39 : L'utilisateur  vient d'être ajouté en tant qu'utilisateur (niveau : project manager).
+24/05/2019 à 17:37:13 : L'utilisateur  vient d'être ajouté en tant qu'utilisateur (niveau : project manager).
+24/05/2019 à 17:36:42 : L'utilisateur  vient d'être ajouté en tant qu'utilisateur (niveau : project manager).
+24/05/2019 à 16:08:30 : L'utilisateur  vient d'être ajouté en tant qu'utilisateur (niveau : project manager).
+24/05/2019 à 16:04:38 : L'utilisateur  vient d'être ajouté en tant qu'utilisateur (niveau : project manager).
+24/05/2019 à 15:37:47 : L'utilisateur aze vient d'être ajouté en tant qu'utilisateur (niveau : project manager).
+24/05/2019 à 15:28:21 : L'utilisateur test vient d'être ajouté en tant qu'utilisateur (niveau : project manager).
